@@ -1,0 +1,6 @@
+/warden
+/bin/
+*.test
+*.out
+warden-audit.jsonl
+.DS_Store

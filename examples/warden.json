@@ -1,0 +1,7 @@
+{
+  "listen": "127.0.0.1:7000",
+  "upstream": "https://my-mcp-server.example.com/mcp",
+  "lockfile": "warden.lock.json",
+  "auditLog": "warden-audit.jsonl",
+  "blockOnCritical": true
+}
